@@ -38,6 +38,18 @@ const wordList = [
     { word: "serenity", hint: "The state of being calm, peaceful, and untroubled" },
     { word: "cascade", hint: "A small waterfall or a continuous series of events, often flowing one after another" },
     { word: "whimsy", hint: "Playfully quaint or fanciful, often involving imaginative or unusual ideas" },
-    { word: "velvety", hint: "Soft and smooth to the touch, like the texture of velvet fabric" }
-  ]
+    { word: "velvety", hint: "Soft and smooth to the touch, like the texture of velvet fabric" },
+    { word: "glisten", hint: "To shine with sparkling light, especially from a wet surface" },
+    { word: "captivate", hint: "To attract and hold the interest or attention of someone" },
+    { word: "whimsical", hint: "Playfully quaint or fanciful, often involving imaginative ideas" },
+    { word: "enigma", hint: "A puzzling or mysterious person or thing" },
+    { word: "harmonize", hint: "To blend in pleasing agreement or create harmony" },
+    { word: "crescent", hint: "The curved shape of the waxing or waning moon" },
+    { word: "effervescent", hint: "Bubbly, lively, and full of high spirits" },
+    { word: "bewitch", hint: "To enchant or cast a spell on someone" },
+    { word: "graceful", hint: "Elegant and smooth in movement or manner" },
+    { word: "glimpse", hint: "A brief and quick look or view" },
+    { word: "comet", hint: "A celestial object with a bright tail that moves through space" },
+    { word: "dazzle", hint: "To impress or astonish with brilliance or splendor" }
+  ];
   

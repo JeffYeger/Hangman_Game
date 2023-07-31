@@ -52,9 +52,9 @@ const startGame = (button, clickedLetter) => {
    }
    button.disabled = true
    guessText.innerText = `${wrongGuessCount} / ${maxGuesses}`
-
-   if (wrongGuessCount === maxGuesses)return gameOver(false)
    if (correctLetters.length ===currentWord.length)return gameOver(true)
+   if (wrongGuessCount === maxGuesses)return gameOver(false)
+ 
 }
 for (let i = 97; i <= 122; i++) {
     const button = document.createElement("button")
